@@ -21,7 +21,7 @@ For get callback use client event:
 
 ```lua
 AddEventHandler('ECLIPSE:SuccessLockpick', function()
-	// to do..;.
+	-- to do...
 end)
 
 ```
