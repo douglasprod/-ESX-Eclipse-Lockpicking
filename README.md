@@ -14,7 +14,7 @@ For start Lockpicking use export function:
 
 ```lua
 
-exports['eclipse_Lockpicking']['OpenLockpick']
+exports['eclipse_Lockpicking'].OpenLockpick()
 ```
 
 For get callback use client event:
